@@ -10,7 +10,7 @@
   --shadow: 0 22px 60px rgba(20, 20, 19, 0.08);
   --radius-lg: 28px;
   --radius-md: 18px;
-  --content-width: 760px;
+  --content-width: min(1320px, calc(100vw - 64px));
 }
 
 * {
@@ -90,15 +90,15 @@ a:hover {
 }
 
 .page-main {
-  max-width: 1180px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 48px 24px 96px;
+  padding: 32px 20px 72px;
 }
 
 .content-card {
   max-width: var(--content-width);
   margin: 0 auto;
-  padding: 56px clamp(24px, 4vw, 72px);
+  padding: 40px clamp(20px, 2.2vw, 40px);
   background: rgba(250, 249, 245, 0.86);
   border: 1px solid rgba(212, 206, 194, 0.9);
   border-radius: var(--radius-lg);
@@ -247,13 +247,13 @@ strong {
 
   .site-header__inner,
   .page-main {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
   }
 
   .content-card {
-    padding: 32px 20px 40px;
-    border-radius: 22px;
+    padding: 24px 16px 32px;
+    border-radius: 18px;
   }
 
   .site-nav {

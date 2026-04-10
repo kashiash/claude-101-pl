@@ -92,12 +92,12 @@ a:hover {
 .page-main {
   max-width: none;
   margin: 0 auto;
-  padding: 12px 10vw 24px;
+  padding: 12px 0 24px;
 }
 
 .content-card {
-  width: 100%;
-  max-width: var(--content-width);
+  width: 80vw;
+  max-width: 80vw;
   margin: 0 auto;
   padding: 18px 12px 20px;
   background: transparent;
@@ -253,6 +253,8 @@ strong {
   }
 
   .content-card {
+    width: 100%;
+    max-width: 100%;
     padding: 12px 0 14px;
     border-radius: 0;
   }

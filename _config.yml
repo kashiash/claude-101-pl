@@ -1,0 +1,5 @@
+title: Claude 101 PL
+description: Polskie materiały Claude 101
+markdown: kramdown
+kramdown:
+  input: GFM

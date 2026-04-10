@@ -10,7 +10,7 @@
   --shadow: none;
   --radius-lg: 0;
   --radius-md: 8px;
-  --content-width: 100vw;
+  --content-width: 80vw;
 }
 
 * {
@@ -92,14 +92,14 @@ a:hover {
 .page-main {
   max-width: none;
   margin: 0 auto;
-  padding: 4px 2px 12px;
+  padding: 12px 10vw 24px;
 }
 
 .content-card {
   width: 100%;
-  max-width: none;
+  max-width: var(--content-width);
   margin: 0 auto;
-  padding: 10px 4px 12px;
+  padding: 18px 12px 20px;
   background: transparent;
   border: 0;
   border-radius: 0;
@@ -248,12 +248,12 @@ strong {
 
   .site-header__inner,
   .page-main {
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .content-card {
-    padding: 8px 2px 12px;
+    padding: 12px 0 14px;
     border-radius: 0;
   }
 

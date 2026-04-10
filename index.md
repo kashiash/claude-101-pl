@@ -1,3 +1,7 @@
+---
+title: Claude 101
+---
+
 # Claude 101 — spis treści
 
 Naucz się używać Claude do codziennych zadań zawodowych, poznaj podstawowe funkcje i odkryj zasoby do bardziej zaawansowanej nauki.

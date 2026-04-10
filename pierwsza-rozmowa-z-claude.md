@@ -1,3 +1,7 @@
+---
+title: Pierwsza rozmowa z Claude
+---
+
 # Twoja pierwsza rozmowa z Claude'em
 
 **Szacowany czas:** 20 minut

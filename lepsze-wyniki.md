@@ -1,3 +1,7 @@
+---
+title: Uzyskiwanie lepszych wynikow
+---
+
 # Uzyskiwanie lepszych wyników
 
 Szacowany czas: 15 minut

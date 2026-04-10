@@ -1,3 +1,7 @@
+---
+title: CCA - przewodnik
+---
+
 # Claude Certified Architect — Kompletny Przewodnik po Egzaminie CCA Foundations
 
 > Autor: Rick Hightower | Źródło: Towards AI | 24 marca 2026

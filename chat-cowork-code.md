@@ -1,3 +1,7 @@
+---
+title: Aplikacja desktopowa Claude
+---
+
 # Aplikacja desktopowa Claude: Chat, Cowork, Code
 
 **Czego się nauczysz**

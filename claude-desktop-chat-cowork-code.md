@@ -1,3 +1,7 @@
+---
+title: Claude desktop app
+---
+
 # Claude desktop app: Chat, Cowork, Code
 
 Szacowany czas: 6 minut

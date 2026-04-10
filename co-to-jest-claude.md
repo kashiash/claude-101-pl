@@ -1,3 +1,7 @@
+---
+title: Co to jest Claude
+---
+
 # Co to jest Claude?
 
 **Szacowany czas:** 15 minut

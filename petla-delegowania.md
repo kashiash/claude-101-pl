@@ -1,3 +1,7 @@
+---
+title: Petla delegowania
+---
+
 # Pętla delegowania i staranności — analiza danych
 
 [![Obejrzyj wideo](https://img.youtube.com/vi/Zzn-g8lvLMA/0.jpg)](https://youtu.be/Zzn-g8lvLMA?si=VCbziRriemM6MY1p)

@@ -1,3 +1,7 @@
+---
+title: Wprowadzenie do projektow
+---
+
 # Wprowadzenie do projektów
 
 Szacowany czas: 20 minut

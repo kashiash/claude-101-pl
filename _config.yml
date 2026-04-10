@@ -3,3 +3,9 @@ description: Polskie materiały Claude 101
 markdown: kramdown
 kramdown:
   input: GFM
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
